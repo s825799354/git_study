@@ -6,3 +6,4 @@ echo 444;
 $a = 11;
 echo 22323;
 echo 5555;
+echo 5555;
